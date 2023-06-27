@@ -1,5 +1,5 @@
 # perfil_1
-
+![](https://github.com/CRIPXU/perfil_facebook/blob/main/perfil_page.png)
 practica de page_perfil
 
 ## Getting Started
